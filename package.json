@@ -8,10 +8,6 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/frknn/fso2020-p3.git"
-  },
   "author": "Furkan Setbaşı",
   "license": "ISC",
   "bugs": {
