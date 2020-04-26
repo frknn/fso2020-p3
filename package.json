@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/frknn/fso2020-p3#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
